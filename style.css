@@ -9,6 +9,11 @@ header{
     padding: 10px 0;
     text-align: left;
 }
+h1{
+    color: white;
+    font-size: 24px;
+    margin-left: 10px;
+}
 body{
     background-color: gray;
 
