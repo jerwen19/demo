@@ -5,12 +5,12 @@
     font-family: sans-serif;
 }
 header{
-    background-color: white;
+    background-color: black;
     padding: 10px 0;
-    text-align: center;
+    text-align: left;
 }
 body{
-    background-color: black;
+    background-color: gray;
 
 }
   
